@@ -1,0 +1,94 @@
+{
+  "videos": {
+    "video": "videos/814dc43e870597176cad645798825c03.mp4"
+  },
+  "workers": [
+    {
+      "fullname": "Nurullo Yusupboyev",
+      "jobtitle": "HTML,CSS,Bootstrap mentor",
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQFO2-uok6d1_Q/profile-displayphoto-shrink_200_200/0/1649698326592?e=2147483647&v=beta&t=-So5zy19s3qe9OuCTNTIPhaxHbqZ3qc3qgOHk78wQbY",
+      "color": "#004481"
+    },
+    {
+      "fullname": "Asadbek",
+      "jobtitle": "Grafik dizayn mentor  ",
+      "img": "https://media-exp1.licdn.com/dms/image/C5603AQFO2-uok6d1_Q/profile-displayphoto-shrink_200_200/0/1649698326592?e=2147483647&v=beta&t=-So5zy19s3qe9OuCTNTIPhaxHbqZ3qc3qgOHk78wQbY",
+      "color": "#F99C1B"
+    },
+    {
+      "fullname": "Hudoybergan",
+      "jobtitle": "Boshlang'ich savodhonlig mentor",
+      "img": "https://media-exp1.licdn.com/dms/image/C4E03AQFGuhEUSfD5uw/profile-displayphoto-shrink_200_200/0/1629041564536?e=1666828800&v=beta&t=hPNup2mBXJ3fvqeF-RmGNrvBIPcxaDwX20-Zz5QlD9U",
+      "color": "#F99C1B"
+    },
+    {
+      "fullname": "Hamidjon",
+      "jobtitle": "javaScript,React mentor",
+      "img": "https://media-exp1.licdn.com/dms/image/C4E03AQFGuhEUSfD5uw/profile-displayphoto-shrink_200_200/0/1629041564536?e=1666828800&v=beta&t=hPNup2mBXJ3fvqeF-RmGNrvBIPcxaDwX20-Zz5QlD9U",
+      "color": "#004481"
+    }
+  ],
+  "portfolios": [
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7RZK-BEVsYFbQy7E6Dwhf4M_aJ9-uoFy7w&usqp=CAU",
+      "projectname": "Effortless",
+      "direction": "Branding 1" 
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLbOjlMiMwfeI18jt243R5ogbzTAKdDMgDJA&usqp=CAU",
+      "projectname": "Health technology",
+      "direction": "Art Direction 2"
+    },
+    {
+      "img": "data:image/jpeg;base64,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",
+      "projectname": "The gig economy",
+      "direction": "Graphic 3"
+    },
+    {
+      "img": "data:image/jpeg;base64,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",
+      "projectname": "Maki",
+      "direction": "Website oxri 4" 
+    }
+  ],
+  "news": {
+    "latestNews": [
+      {
+        "img": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/caroline-lm-uqveD8dYPUM-unsplash.jpg",
+        "smollimg": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg",
+        "title":"What happened to new viral video?",
+        "post1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "date": "25.08.2022"
+      }
+    ],
+    "oldNews": [
+      {
+        "img": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/maria-stewart-p4tj0g-_aMM-unsplash.jpeg",
+        "smollimg": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg",
+        "title":"What happened to new viral video?",
+        "post1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "date": "25.08.2022"
+      }
+    ],
+    "events": [
+      {
+        "img": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg",
+        "smollimg": "https://templatemo.com/templates/templatemo_567_nomad_force/images/news/jean-philippe-delberghe-MmanXAs1sKw-unsplash.jpeg",
+        "title":"What happened to new viral video?",
+        "post1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "post5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan.",
+        "date": "25.08.2022"
+      }
+    ]
+  }
+}
